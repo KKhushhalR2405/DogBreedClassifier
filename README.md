@@ -36,6 +36,7 @@ activation: relu
 (fc2): Linear(in_features=500, out_features=133, bias=True)
 
 Accuracy attained : 16% with 15 epochs
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## CNN Model using Tranfer learning
